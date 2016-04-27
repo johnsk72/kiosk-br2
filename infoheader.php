@@ -1,0 +1,16 @@
+<div class="row gutter">
+    <div class="col s4 m4 xs4">
+    	<h3 class="topheader"><?php echo date('h:i A');?></h3>
+    </div>
+    <div class="col s4 m4 xs4">
+    	<h3 class="topheader"><?php echo date('F d Y');?></h3>
+    </div>
+    <div class="col s4 m4 xs4">
+    	<h3 class="topheader">WEATHER</h3>
+    </div>
+</div>
+<div class="row gutter">
+    <div class="col location">
+    	<h4>College of Business  |  First Floor</h4>
+    </div>
+</div>
