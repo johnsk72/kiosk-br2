@@ -28,7 +28,6 @@ body {
 .container {
 	margin:0;
 	width:100%;
-	border:solid white 1px;
 }
 .content {
 	padding:0 5% 0 2%;
@@ -114,7 +113,7 @@ h4 {
 	margin:0 0 2rem 0;
 	padding:1rem;
 	text-transform:uppercase;
-	font-weight:lighter;
+	font-weight:400;
 }
 .nav h4 {
 	display:none;
@@ -182,8 +181,8 @@ p {
 	margin-bottom:2rem;
 }
 .navsmallicon {
-	width:30%;
-	margin-left:35%;
+	width:50%;
+	margin-left:25%;
 }
 .landingicon {
 	width:23%;
@@ -452,6 +451,10 @@ option {
 	}
 	.din {
 		margin-top:3.5rem;
+	}
+	.navsmallicon {
+		width:30%;
+		margin-left:35%;
 	}
 }
 
