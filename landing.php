@@ -20,28 +20,33 @@
         <div class="content">
         	<div class="landing">
                 <div class="row gutter">
-                    <div class="col">
+                    <div class="col dining">
                         <a href="../pages/dining.php"><li><img class="landingicon" src="images/dining.svg" alt=""><h4>dining</h4></li></a>
                     </div>
                 </div>
                 <div class="row gutter">
-                    <div class="col m6 s6 xs6">
+                    <div class="col m4 s4 xs4 events">
                         <a href="../pages/events.php"><li><img class="landingiconsmall" src="images/events.svg" alt=""><h4>events</h4></li></a>
                     </div>
-                    <div class="col m6 s6 xs6">
+                    <div class="col m4 s4 xs4">
+                    </div>
+                    <div class="col m4 s4 xs4 directory">
                         <a href="../pages/directory.php"><li><img class="landingiconsmall" src="images/directory.svg" alt=""><h4>directory</h4></li></a>
                     </div>
                 </div>
                 <div class="row gutter">
-                    <div class="col m6 s6 xs6">
+                    <div class="col m4 s4 xs4 student">
                         <a href="../pages/studentlife.php"><li><img class="landingiconsmall" src="images/student.svg" alt=""><h4>student life</h4></li></a>
                     </div>
-                    <div class="col m6 s6 xs6">
+                    <div class="col 46 s4 xs4">
+                    </div>
+
+                    <div class="col m4 s4 xs4 map">
                         <a href="../pages/map.php"><li><img class="landingiconsmall" src="images/map.svg" alt=""><h4>map</h4></li></a>
                     </div>
                 </div>
                 <div class="row gutter">
-                    <div class="col">
+                    <div class="col academics">
                         <a href="../pages/academics.php"><li><img class="landingicon" src="images/academics.svg" alt=""><h4>academics</h4></li></a>
                     </div>
                 </div>

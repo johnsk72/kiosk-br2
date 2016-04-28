@@ -152,8 +152,8 @@ header h4 {
 }
 .pageheader h3 {
 	font-size:2.4rem;
-	font-weight:400;
-	padding-top:2rem;
+	font-weight:lighter;
+	padding-top:2%;
 }
 .topheader {
 	font-size:1.6rem;
@@ -173,8 +173,7 @@ p {
 	margin-left:42.5%;
 }
 .navicon {
-	width:70%;
-	margin-left:15%;
+	width:100%;
 }
 .navsmallicon {
 	width:30%;
@@ -182,14 +181,26 @@ p {
 	margin-bottom:3rem;
 }
 .landingicon {
-	width:25%;
-	margin-left:37.5%;
+	width:23%;
+	margin-left:39%;
 	margin-top:-1rem;
 }
 .landingiconsmall {
-	width:50%;
-	margin-left:25%;
+	width:60%;
 	margin-top:-1rem;
+}
+.dining li {
+	margin-bottom:-15%;
+}
+.academics li {
+	margin-top:-15%;
+}
+.directory img,
+.map img,
+.events img,
+.student img {
+	width:70%;
+	margin-left:15%;
 }
 .backgroundpic {
 	right:0;
@@ -212,12 +223,12 @@ p {
 	margin-top:-4rem;
 }
 .landing {
-	margin:20% 0 10% 0;
+	margin:20% 0 10% 5%;
 }
 
 /*Select*/
 select {
-   background:#C0504A;
+   background:white;
    width:100%;
    padding:0 0 0 5%;
    font-size:3rem;
@@ -225,7 +236,11 @@ select {
    border-radius:.7rem;
    height:5rem;
    -webkit-appearance: none;
-   color:white;
+   color:#6a6a6a;
+}
+
+option {
+	font-weight:200;
 }
 
 /*Buttons*/
@@ -418,6 +433,10 @@ select {
 	}
 	.location h4 {
 		font-size:2rem;
+	}
+	.navicon {
+		width:70%;
+		margin-left:15%;
 	}
 }
 
