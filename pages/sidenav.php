@@ -1,7 +1,7 @@
 <nav>
     <ul>
-        <li><img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon" src="../images/left.svg" alt=""></li>
-        <a href="../../pages/dining.php"><li><img class="navicon" src="../images/dining.svg" alt=""><h4>dining</h4></li></a>
+        <img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
+        <a href="../../pages/dining.php"><li><img class="navicon din" src="../images/dining.svg" alt=""><h4>dining</h4></li></a>
         <a href="../../pages/events.php"><li><img class="navicon" src="../images/events.svg" alt=""><h4>events</h4></li></a>
         <a href="../../pages/directory.php"><li><img class="navicon" src="../images/directory.svg" alt=""><h4>directory</h4></li></a>
         <a href="../../pages/studentlife.php"><li><img class="navicon" src="../images/student.svg" alt=""><h4>student life</h4></li></a>

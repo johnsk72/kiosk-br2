@@ -116,6 +116,9 @@ h4 {
 	text-transform:uppercase;
 	font-weight:lighter;
 }
+.nav h4 {
+	display:none;
+}
 header h3,
 header h4 {
 	text-transform:uppercase;
@@ -175,10 +178,12 @@ p {
 .navicon {
 	width:100%;
 }
+.nav img {
+	margin-bottom:2rem;
+}
 .navsmallicon {
 	width:30%;
 	margin-left:35%;
-	margin-bottom:3rem;
 }
 .landingicon {
 	width:23%;
@@ -253,6 +258,7 @@ option {
 .go {
 	color:white;
 }
+
 
 @media (min-width:130px) {
 	.gutter > .col {
@@ -437,6 +443,15 @@ option {
 	.navicon {
 		width:70%;
 		margin-left:15%;
+	}
+	.nav h4 {
+		display:block;
+	}
+	.nav img {
+		margin-bottom:0;
+	}
+	.din {
+		margin-top:3.5rem;
 	}
 }
 
