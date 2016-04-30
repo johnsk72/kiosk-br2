@@ -26,7 +26,7 @@
             <div class="row gutter">
             	<div class="col">
                 	<h1>Events</h1>
-                	<h3>Secondary Title Name</h3>
+                	<h3>Homepage</h3>
                 </div>
             </div>
        	</div>
@@ -35,39 +35,73 @@
                 <div class="nav col m2 s2 xs2">
 					<?php include("sidenav.php");?>
                 </div>
-                 <div class="col m10 s10 xs5 orange">
-                    <h1>hey there, this is our kiosk interface.</h1>
-                    <div class="row gutter">
-                        <div class="col green">
-                            <h1>no</h1>
-                        </div>
-                    </div>
+                 <div class="col m10 s10 xs5">
+                    <h1>Want to know the latest events?</h1>
+					 <a href="#" class="buttonred">Tap Here</a>
+
                 </div>
-                <div class="col m10 s10 xs5 orange">
-                    <h1>hey there, this is our kiosk interface.</h1>
-                    <div class="row gutter">
-                        <div class="col m6 s6 xs6 green">
-                            <h1>no</h1>
+               <div class="col m10 s10 xs5"> <!--col 10 starts here-->
+                   <div class="row gutter events">
+                      	<div class="col m3 s3 xs3 piccenter">
+                           <a href="#" class="img-responsive"><img src="../images/eventone.png" alt="">
+						   </a>
+						   <div class="eventbox"> <!--event transparent box starts here-->
+						   		<h3 class="eventssubtitle">
+							   	 	The Big Event
+						   		</h3>
+					   		</div> <!--event transparent box ends here-->
+                       </div>
+                       	<div class="col m3 s3 xs3 piccenter">
+                            <a href="#" class="img-responsive"><img src="../images/eventtwo.png" alt="">
+ 						   	</a>
+ 						   <div class="eventbox"> <!--event transparent box starts here-->
+ 						   		<h3 class="eventssubtitle">
+ 							   	 	Turn Up The Good
+ 						   		</h3>
+ 					   		</div> <!--event transparent box ends here-->
                         </div>
-                         <div class="col m6 s6 xs6 green">
-                            <h1>no</h1>
+                       	<div class="col m3 s3 xs3 piccenter">
+                            <a href="#" class="img-responsive"><img src="../images/eventthree.png" alt="">
+ 						   	</a>
+ 						   <div class="eventbox"> <!--event transparent box starts here-->
+ 						   		<h3 class="eventssubtitle">
+ 							   	 	Music Takes Action
+ 						   		</h3>
+ 					   		</div> <!--event transparent box ends here-->
                         </div>
-                    </div>
-                </div>
-                <div class="col m10 s10 xs5 orange">
-                    <h1>hey there, this is our kiosk interface.</h1>
-                    <div class="row gutter">
-                       	<div class="col m4 s4 xs4 green">
-                            <h1>no</h1>
+                   </div> <!--row gutter ends-->
+               </div> <!--col 10 ends here-->
+                <div class="col m10 s10 xs5"> <!--col 10 starts here-->
+                    <div class="row gutter events">
+                       	<div class="col m3 s3 xs3 piccenter">
+                            <a href="#" class="img-responsive"><img src="../images/eventfour.png" alt="">
+ 						   	</a>
+ 						   <div class="eventbox"> <!--event transparent box starts here-->
+ 						   		<h3 class="eventssubtitle">
+ 							   	 	Holi Festival
+ 						   		</h3>
+ 					   		</div> <!--event transparent box ends here-->
                         </div>
-                        <div class="col m4 s4 xs4 green">
-                            <h1>no</h1>
+                       	<div class="col m3 s3 xs3 piccenter">
+                            <a href="#" class="img-responsive"><img src="../images/eventfive.png" alt="">
+ 						   	</a>
+ 						   <div class="eventbox"> <!--event transparent box starts here-->
+ 						   		<h3 class="eventssubtitle">
+ 							   	 	International Festival
+ 						   		</h3>
+ 					   		</div> <!--event transparent box ends here-->
                         </div>
-                        <div class="col m4 s4 xs4 green">
-                            <h1>no</h1>
+                       	<div class="col m3 s3 xs3 piccenter">
+                            <a href="#" class="img-responsive"><img src="../images/eventsix.png" alt="">
+ 						   	</a>
+ 						   <div class="eventbox"> <!--event transparent box starts here-->
+ 						   		<h3 class="eventssubtitle">
+ 							   	 	Grad Fair 2016
+ 						   		</h3>
+ 					   		</div> <!--event transparent box ends here-->
                         </div>
-                    </div>
-                </div>
+                    </div> <!--row gutter ends here-->
+                </div> <!--col 10 ends here-->
         	</div>
         </div>
 	</div>
