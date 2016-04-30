@@ -94,7 +94,7 @@ h2 {
 }
 h3 {
 	text-align:center;
-	font-size:2.8rem;
+	font-size:2.3rem;
 	font-weight:lighter;
 	margin:0;
 	padding-bottom:4rem;
@@ -250,15 +250,38 @@ option {
 
 /*Buttons*/
 .button {
-	background:grey;
-	border:0;
-  	border-radius:.7rem;
-	padding:3%;
+	background-color: grey;
+	border-radius: 1rem;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+	cursor: pointer;
 }
+
+.buttonred {
+	background-color: #CE3948;
+	border-radius: 1rem;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+	cursor: pointer;
+
+}
+
+
+
 .go {
 	color:white;
 }
-/* Map */
+//* Map */
 .map-nav:after {
 	content:"";
 	display:table;
@@ -312,6 +335,29 @@ ul.active {
 
 =======
 >>>>>>> 42cb6541d9b2eefd43c6b979c6f3c17c44c23371
+
+/*events*/
+
+.eventbox {
+    width: 20rem;
+    height: 6rem;
+    background: #fff;
+    border-radius: 0.50rem;
+}
+
+.img-responsive {
+    vertical-align: middle;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto 20px;
+}
+
+.eventssubtitle {
+	color: #000;
+}
+
+
 @media (min-width:130px) {
 	.gutter > .col {
 		margin-left:2%;
@@ -351,7 +397,6 @@ ul.active {
 	}
 	.col.xs11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.xs12 {
 		width:100%;
@@ -386,7 +431,6 @@ ul.active {
 	}
 	.gutter .col.xs10 {
 		width:83%;
-		margin-left:1rem;
 	}
 	.gutter .col.xs11 {
 		width:91.5%;
@@ -478,6 +522,7 @@ ul.active {
 	.gutter .col.s12 {
 		width:100%;
 	}
+	
 	.pageheader h1 {
 		font-size:9rem;
 		font-weight:600;
@@ -551,7 +596,6 @@ ul.active {
 	}
 	.col.m11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.m12 {
 		width:100%;
@@ -586,7 +630,6 @@ ul.active {
 	}
 	.gutter .col.m10 {
 		width:83%;
-		margin-left:1rem;
 	}
 	.gutter .col.m11 {
 		width:91.5%;

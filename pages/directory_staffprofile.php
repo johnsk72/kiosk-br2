@@ -35,8 +35,10 @@
                 <div class="nav col m2 s2 xs2">
 					<?php include("sidenav.php");?>
                 </div>
-                 <div class="col m10 s10 xs5">
-                    <div class="row gutter">
+                 <div class="col m10 s10 xs10">
+                 	<div class="col m12 s12 xs12">
+                        <div class="row gutter">
+                        </div>
                     </div>
                 </div>
         	</div>

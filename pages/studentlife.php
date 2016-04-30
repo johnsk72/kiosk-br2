@@ -35,10 +35,12 @@
                 <div class="nav col m2 s2 xs2">
 					<?php include("sidenav.php");?>
                 </div>
-				<div class="something-columns-here">
-					<img class="bulldog-highlight" src="../images/john-smith.jpg">
-					<h4>John Smith</h4>
-					<p>This is a random bulldog higlight. This will feature a current student in the college that the signage is located in with a description of what they are going to school for, what makes them so special, and where they are going in their life. I don’t know what else to write, so this is it.</p>
+				<div class="col m10 s10 xs10">
+                	<div class="col m12 s12 xs12">
+                        <img class="bulldog-highlight" src="../images/john-smith.jpg">
+                        <h4>John Smith</h4>
+                        <p>This is a random bulldog higlight. This will feature a current student in the college that the signage is located in with a description of what they are going to school for, what makes them so special, and where they are going in their life. I don’t know what else to write, so this is it.</p>
+                    </div>
 				</div>
         	</div>
         </div>

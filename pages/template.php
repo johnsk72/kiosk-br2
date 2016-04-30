@@ -25,7 +25,7 @@
             </div>
             <div class="row gutter">
             	<div class="col">
-                	<h1>Dining</h1>
+                	<h1>Template</h1>
                 	<h3>Secondary Title Name</h3>
                 </div>
             </div>
