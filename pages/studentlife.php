@@ -26,7 +26,7 @@
             <div class="row gutter">
             	<div class="col">
                 	<h1>Student Life</h1>
-                	<h3>Secondary Title Name</h3>
+                	<h3>Bulldog Highlight</h3>
                 </div>
             </div>
        	</div>
@@ -35,39 +35,11 @@
                 <div class="nav col m2 s2 xs2">
 					<?php include("sidenav.php");?>
                 </div>
-                 <div class="col m10 s10 xs5 orange">
-                    <h1>hey there, this is our kiosk interface.</h1>
-                    <div class="row gutter">
-                        <div class="col green">
-                            <h1>no</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col m10 s10 xs5 orange">
-                    <h1>hey there, this is our kiosk interface.</h1>
-                    <div class="row gutter">
-                        <div class="col m6 s6 xs6 green">
-                            <h1>no</h1>
-                        </div>
-                         <div class="col m6 s6 xs6 green">
-                            <h1>no</h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="col m10 s10 xs5 orange">
-                    <h1>hey there, this is our kiosk interface.</h1>
-                    <div class="row gutter">
-                       	<div class="col m4 s4 xs4 green">
-                            <h1>no</h1>
-                        </div>
-                        <div class="col m4 s4 xs4 green">
-                            <h1>no</h1>
-                        </div>
-                        <div class="col m4 s4 xs4 green">
-                            <h1>no</h1>
-                        </div>
-                    </div>
-                </div>
+				<div class="something-columns-here">
+					<img class="bulldog-highlight" src="../images/john-smith.jpg">
+					<h4>John Smith</h4>
+					<p>This is a random bulldog higlight. This will feature a current student in the college that the signage is located in with a description of what they are going to school for, what makes them so special, and where they are going in their life. I don’t know what else to write, so this is it.</p>
+				</div>
         	</div>
         </div>
 	</div>

@@ -167,6 +167,7 @@ header h4 {
 
 /* Paragraphs */
 p {
+	font-size:1.8rem;
 }
 
 /* Images */
@@ -331,6 +332,9 @@ option {
 	color: #000;
 }
 
+.bulldog-highlight {
+	border-radius:2rem;
+}
 
 @media (min-width:130px) {
 	.gutter > .col {
