@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
@@ -60,6 +60,7 @@
 											</li>
 										</ul>
 									</li>
+									<?php /*
 									<li>
 										<a href="#">Housing</a>
 										<ul>
@@ -249,6 +250,7 @@
 											</li>
 										</ul>
 									</li>
+									*/?>
 								</ul>
 							</li>
 							<li>
@@ -284,5 +286,13 @@
 				</div>
 			</div>
 		</div><!-- JS and Jquery go here -->
+		<script src="../js/jquery-1.12.3.min.js"></script>
+		<script>
+			$(".map-nav a").click(function() {
+				$(".map-nav ul").removeClass("active");
+				$(this).next("ul").addClass("active");
+				return false;
+			});
+		</script>
 	</body>
 </html>
