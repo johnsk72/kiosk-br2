@@ -92,6 +92,8 @@ h2 {
 	font-weight:lighter;
 	margin:0 0 2.8rem 0;
 }
+
+
 h3 {
 	text-align:center;
 	font-size:2.3rem;
@@ -248,6 +250,12 @@ option {
 	font-weight:200;
 }
 
+/*calendar content*/
+
+.eventstitle {
+	text-align: center;
+}
+
 /*Buttons*/
 .button {
 	background-color: grey;
@@ -263,17 +271,21 @@ option {
 }
 
 .buttonred {
-	background-color: #CE3948;
-	border-radius: 1rem;
+	background-image: url(../images/button.svg);
+	border-radius: 7px;
     color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 25px;
     margin: 4px 2px;
 	cursor: pointer;
 
+}
+
+.buttonsec {
+	margin: 0 auto;
 }
 
 
@@ -328,21 +340,54 @@ ul.active {
 .map-nav ul a {
 }
 
-<<<<<<< HEAD
+/*bulldog highlight*/
 .bulldog-highlight {
 	border-radius:2rem;
 }
 
-=======
->>>>>>> 42cb6541d9b2eefd43c6b979c6f3c17c44c23371
-
 /*events*/
 
-.eventbox {
-    width: 20rem;
-    height: 6rem;
+.eventtextbox {
+    width: 222px;
+    height: 86px;
     background: #fff;
-    border-radius: 0.50rem;
+    border-radius: 8px;
+	margin: 0 auto;
+}
+
+.eventtextboxpersonal {
+    width: 700px;
+    height: 500px;
+    background: #fff;
+    border-radius: 8px;
+	margin: 0 auto;
+}
+
+.eventh2 {
+	color: #5A595B;
+	font-size:4rem;
+	font-weight:700;
+	text-align: center;
+	padding-top:28px;
+	padding-left: 14px;
+	padding-right: 14px;
+	margin-bottom: 0;
+}
+
+.eventh3 {
+	color: #5A595B;
+	font-size:3rem;
+	font-weight:lighter;
+	text-align: center;
+}
+
+.eventp {
+	color: #5A595B;
+	font-size:2.5rem;
+	font-weight:lighter;
+	text-align: center;
+	padding-right: 25px;
+	padding-left: 25px;
 }
 
 .img-responsive {
@@ -355,8 +400,28 @@ ul.active {
 
 .eventssubtitle {
 	color: #000;
+    font-size: 27px;
+    font-weight: lighter;
+    line-height: 29px;
+    margin: 0;
+	padding: 6px;
 }
 
+.arrow-up {
+	width: 0;
+	height: 0;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 20px solid #fff;
+	margin: 0 auto;
+
+}
+
+.whitebox{
+	border-bottom: 20px solid #fff;
+}
+
+/*media queries*/
 
 @media (min-width:130px) {
 	.gutter > .col {
