@@ -39,7 +39,7 @@
                    		<div class="col m12 s12 xs12"> <!--col m12 row starts here-->
                         	<div class="row gutter events orange"> <!--row gutter event row one starts here-->
                             	<div class="col m4 s4 xs12">
-                                    <a href="#" class="img-responsive"><img src="../images/eventone.png" alt="">
+                                    <a href="../pages/events_ferriststate.php" class="img-responsive"><img src="../images/eventone.png" alt="">
                                     </a>
 									<div class="eventtextbox">
 										<h3 class="eventssubtitle">
