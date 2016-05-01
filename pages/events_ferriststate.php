@@ -26,7 +26,7 @@
             <div class="row gutter">
             	<div class="col">
                 	<h1>Events</h1>
-                	<h3>Homepage</h3>
+                	<h3>Current Events</h3>
                 </div>
             </div>
        	</div>
