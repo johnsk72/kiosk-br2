@@ -38,7 +38,9 @@
 					<div class="nav col m2 s2 xs2">
 						<?php include("sidenav.php");?>
 					</div>
-					<div class="top tabs col m10 s10 xs5">
+                	<div class="col m10 s10 xs10"> <!--col m10 starts here-->
+                   	<div class="col m12 s12 xs12"> <!--col m12 row starts here-->
+                	<div class="row gutter"> <!--row gutter event row one starts here-->
 						<ul class="map-nav">
 							<li>
 								<a href="#">Buildings</a>
@@ -64,7 +66,7 @@
 										<a href="#">Housing</a>
 										<ul>
 											<li>
-											<img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
+											<img action="action" value="back" type="button"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
 										</li>
 											<li>
 												<a href="#">Residence Halls</a>
@@ -262,9 +264,6 @@
 								<a href="#">Transportation</a>
 								<ul>
 									<li>
-										<img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
-									</li>
-									<li>
 										<a href="#">Bus Stops</a>
 									</li>
 									<li>
@@ -273,11 +272,8 @@
 								</ul>
 							</li>
 							<li>
-								<a href="#">Staff & Faculty</a>
+								<a href="#">Faculty & Staff</a>
 								<ul>
-									<li>
-										<img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
-									</li>
 									<li>
 										<a href="#">A-F</a>
 									</li>
@@ -294,6 +290,8 @@
 							</li>
 						</ul>
 					</div>
+					</div>
+				</div>
 					<div class="col m10 s10 xs5">
 						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2885.2366562415077!2d-85.48782308441442!3d43.68484317912018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8818d322e4239cd1%3A0xa511e8893935e491!2sFerris+State+University!5e0!3m2!1sen!2sus!4v1462174893466" width="100%" height="900px" frameborder="0" style="border:0" allowfullscreen></iframe>
 					</div>

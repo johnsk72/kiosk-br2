@@ -1,7 +1,7 @@
 
 $(".map-nav a").on('click', function() {
-	//$(".map-nav ul").removeClass("active");
-	$(this).next("ul").addClass("active");
+	$(this).next("ul").toggleClass("active");
+	$(this).parent().toggleClass("current");
 	return false;
 });
 
