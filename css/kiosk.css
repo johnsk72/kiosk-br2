@@ -92,11 +92,9 @@ h2 {
 	font-weight:lighter;
 	margin:0 0 2.8rem 0;
 }
-
-
 h3 {
 	text-align:center;
-	font-size:2.3rem;
+	font-size:2.8rem;
 	font-weight:lighter;
 	margin:0;
 	padding-bottom:4rem;
@@ -119,14 +117,6 @@ h4 {
 }
 .nav h4 {
 	display:none;
-}
-
-h4.stulife {
-	text-align:left;
-	font-size:2.6rem;
-	text-transform:none;
-	font-weight:bold;
-	padding-left:0;
 }
 header h3,
 header h4 {
@@ -177,12 +167,6 @@ header h4 {
 
 /* Paragraphs */
 p {
-	font-size:1.8rem;
-}
-p.stulife {
-	font-size:2.0rem;
-	line-height:2.6rem;
-	display:inline;
 }
 
 /* Images */
@@ -263,50 +247,17 @@ option {
 	font-weight:200;
 }
 
-/*calendar content*/
-
-.eventstitle {
-	text-align: center;
-}
-
 /*Buttons*/
 .button {
-	background-color: grey;
-	border-radius: 1rem;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-	cursor: pointer;
+	background:grey;
+	border:0;
+  	border-radius:.7rem;
+	padding:3%;
 }
-
-.buttonred {
-	background-image: url(../images/button.svg);
-	border-radius: 7px;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 25px;
-    margin: 4px 2px;
-	cursor: pointer;
-
-}
-
-.buttonsec {
-	margin: 0 auto;
-}
-
-
-
 .go {
 	color:white;
 }
-//* Map */
+/* Map */
 .map-nav:after {
 	content:"";
 	display:table;
@@ -321,11 +272,20 @@ option {
 	margin:0;
 	padding:0;
 	display:none;
+	
 }
 
 ul.active {
 	position:absolute;
 	top:100%;
+	left:0px;
+	display:block;
+	
+}
+
+ul.active ul.active {
+	position:absolute;
+	top:0;
 	left:0px;
 	display:block;
 }
@@ -336,105 +296,31 @@ ul.active {
 	padding:0;
 	float:left;
 	width:33%;
+	
 }
 
 .map-nav > li > a {
 	display:block;
 	color:white;
 	text-align:left;
-	background:red;
+	background:rgb(206, 57, 72);
 }
 
 .map-nav a {
 	padding:.5rem;
-	background:yellow;
+	background:rgb(206, 57, 72);
+    padding: 0 0 0 5%;
+    font-size: 3rem;
+    border-radius: .7rem;
+    height: 5rem;
+    -webkit-appearance: none;
 }
 
 .map-nav ul a {
 }
 
-/*bulldog highlight*/
-.bulldog-highlight {
-	border-radius:2rem;
-}
 
-/*events*/
 
-.eventtextbox {
-    width: 222px;
-    height: 86px;
-    background: #fff;
-    border-radius: 8px;
-	margin: 0 auto;
-}
-
-.eventtextboxpersonal {
-    width: 700px;
-    height: 500px;
-    background: #fff;
-    border-radius: 8px;
-	margin: 0 auto;
-}
-
-.eventh2 {
-	color: #5A595B;
-	font-size:4rem;
-	font-weight:700;
-	text-align: center;
-	padding-top:28px;
-	padding-left: 14px;
-	padding-right: 14px;
-	margin-bottom: 0;
-}
-
-.eventh3 {
-	color: #5A595B;
-	font-size:3rem;
-	font-weight:lighter;
-	text-align: center;
-}
-
-.eventp {
-	color: #5A595B;
-	font-size:2.5rem;
-	font-weight:lighter;
-	text-align: center;
-	padding-right: 25px;
-	padding-left: 25px;
-}
-
-.img-responsive {
-    vertical-align: middle;
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto 20px;
-}
-
-.eventssubtitle {
-	color: #000;
-    font-size: 27px;
-    font-weight: lighter;
-    line-height: 29px;
-    margin: 0;
-	padding: 6px;
-}
-
-.arrow-up {
-	width: 0;
-	height: 0;
-	border-left: 20px solid transparent;
-	border-right: 20px solid transparent;
-	border-bottom: 20px solid #fff;
-	margin: 0 auto;
-
-}
-
-.whitebox{
-	border-bottom: 20px solid #fff;
-}
-
-/*media queries*/
 
 @media (min-width:130px) {
 	.gutter > .col {
@@ -475,6 +361,7 @@ ul.active {
 	}
 	.col.xs11 {
 		width:91.666%;
+		margin-left:1rem;
 	}
 	.col.xs12 {
 		width:100%;
@@ -509,6 +396,7 @@ ul.active {
 	}
 	.gutter .col.xs10 {
 		width:83%;
+		margin-left:1rem;
 	}
 	.gutter .col.xs11 {
 		width:91.5%;
@@ -600,7 +488,6 @@ ul.active {
 	.gutter .col.s12 {
 		width:100%;
 	}
-	
 	.pageheader h1 {
 		font-size:9rem;
 		font-weight:600;
@@ -674,6 +561,7 @@ ul.active {
 	}
 	.col.m11 {
 		width:91.666%;
+		margin-left:1rem;
 	}
 	.col.m12 {
 		width:100%;
@@ -708,6 +596,7 @@ ul.active {
 	}
 	.gutter .col.m10 {
 		width:83%;
+		margin-left:1rem;
 	}
 	.gutter .col.m11 {
 		width:91.5%;
