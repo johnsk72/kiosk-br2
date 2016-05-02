@@ -11,6 +11,6 @@
 </div>
 <div class="row gutter">
     <div class="col location">
-    	<h4>College of Business  |  First Floor</h4>
+    	<h4>Business Building  |  First Floor</h4>
     </div>
 </div>

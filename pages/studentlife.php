@@ -36,13 +36,20 @@
 					<?php include("sidenav.php");?>
                 </div>
 				<div class="col m10 s10 xs10">
-                	<div class="col m12 s12 xs12">
+                	<div class="col m4 s4 xs4">
                         <img class="bulldog-highlight" src="../images/john-smith.jpg">
-                        <h4>John Smith</h4>
-                        <p>This is a random bulldog higlight. This will feature a current student in the college that the signage is located in with a description of what they are going to school for, what makes them so special, and where they are going in their life. I don’t know what else to write, so this is it.</p>
+					</div>
+					<div class="col s1"><h5></h5></div>
+					<div class="col m7 s7 xs7">	
+                        <h4 class="stulife">John Smith</h4>
+                        <p class="stulife">This is a random bulldog higlight. This will feature a current student in the college that the signage is located in with a description of what they are going to school for, what makes them so special, and where they are going in their life. I don’t know what else to write, so this is it.</p>
+					</div>	
                     </div>
 				</div>
         	</div>
+			<div class="row gutter">
+				
+			</div>
         </div>
 	</div>
     <!-- JS and Jquery go here -->
