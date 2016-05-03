@@ -42,11 +42,11 @@
                    	<div class="col m12 s12 xs12"> <!--col m12 row starts here-->
                 	<div class="row gutter"> <!--row gutter event row one starts here-->
 						<ul class="map-nav">
-							<li>
+							<li class="top">
 								<a href="#">Buildings</a>
 								<ul>
 									<li>
-										<a href="#">Dining</a>
+										<a href="#"><img src="../images/left.svg" alt="back button">Dining</a>
 										<ul>
 											<li>
 												<a href="#">The Rock Cafe</a>
@@ -66,14 +66,8 @@
 										<a href="#">Housing</a>
 										<ul>
 											<li>
-											<img action="action" value="back" type="button"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
-										</li>
-											<li>
 												<a href="#">Residence Halls</a>
 												<ul>
-													<li>
-														<img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
-													</li>
 													<li>
 														<a href="#">Bond, North &amp; South</a>
 													</li>
@@ -260,7 +254,7 @@
 									
 								</ul>
 							</li>
-							<li>
+							<li class="top">
 								<a href="#">Transportation</a>
 								<ul>
 									<li>
@@ -271,7 +265,7 @@
 									</li>
 								</ul>
 							</li>
-							<li>
+							<li class="top">
 								<a href="#">Faculty & Staff</a>
 								<ul>
 									<li>
