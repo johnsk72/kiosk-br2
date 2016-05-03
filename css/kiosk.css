@@ -30,7 +30,7 @@ body {
 	width:100%;
 }
 .content {
-	padding:0 5% 0 2%;
+	padding:5% 5% 0 2%;
 	height:100%;
 }
 .row {
@@ -83,14 +83,25 @@ h1 {
 	font-size:5rem;
 	color:white;
 	font-weight:lighter;
-	line-height:8rem;
 	margin:0;
+}
+h1.bycollege {
+	font-size:2.8rem;
+	color:white;
+	font-weight:lighter;
+	margin:0 0 7% 0;
 }
 h2 {
 	color:white;
 	font-size:4rem;
 	font-weight:lighter;
 	margin:0 0 2.8rem 0;
+}
+h2.mobileh2 {
+	color:white;
+	font-size:2.8rem;
+	font-weight:lighter;
+	margin:0 0 7% 0;
 }
 h3 {
 	text-align:center;
@@ -104,7 +115,11 @@ h3.alphabet {
 	font-size:2.8rem;
 	font-weight:lighter;
 	margin:0;
-	padding-bottom:1rem;
+	padding-bottom:1.2rem;
+	color:white;
+}
+a.selected > h3.alphabet {
+	font-weight:bold;
 }
 h4 {
 	text-align:center;
@@ -117,14 +132,6 @@ h4 {
 }
 .nav h4 {
 	display:none;
-}
-
-h4.stulife {
-	text-align:left;
-	font-size:2.6rem;
-	text-transform:none;
-	font-weight:bold;
-	padding-left:0;
 }
 header h3,
 header h4 {
@@ -147,8 +154,8 @@ header h4 {
 	margin-bottom:10%;
 }
 .pageheader {
-	margin-top:3rem;
-	margin-bottom:1rem;
+	margin-top:5%;
+	margin-bottom:3%;
 }
 .pageheader h3,
 .pageheader h1 {
@@ -175,12 +182,6 @@ header h4 {
 
 /* Paragraphs */
 p {
-	font-size:1.8rem;
-}
-p.stulife {
-	font-size:2.0rem;
-	line-height:2.6rem;
-	display:inline;
 }
 
 /* Images */
@@ -243,6 +244,10 @@ p.stulife {
 .landing {
 	margin:20% 0 10% 5%;
 }
+.scroll {
+	overflow-y: scroll;
+    height:150rem;
+}
 
 /*Select*/
 select {
@@ -272,82 +277,78 @@ option {
 	color:white;
 }
 /* Map */
+ul.map-nav,
+ul.map-nav ul {
+	margin:0;
+	padding:0;
+	font-size:2.5rem;
+	line-height:2.4;
+	list-style-type:none;
+	letter-spacing:.09rem;
+}
 
-.map-nav:after {
+ul.map-nav:after {
 	content:"";
 	display:table;
 	clear:both;
 }
-.map-nav a {
-	display:block;
-}
-.map-nav ul {
-	width:100%;
-	list-style-type:none;
-	margin:0;
-	padding:0;
-	display:none;
-	
-}
 
-ul.active {
-	position:absolute;
-	top:100%;
-	left:0px;
-	display:block;
-	
-}
-
-ul.active ul.active {
-	position:absolute;
-	top:0;
-	left:0px;
-	display:block;
-}
-
-.map-nav > li {
-	position:relative;
-	margin:0;
-	padding:0;
+ul.map-nav > li {
 	float:left;
-	width:33%;
-	
+	width:33.333%;
+	position:relative;
 }
 
-
-.map-nav > li > a {
+ul.map-nav a {
 	display:block;
-	color:white;
-	text-align:left;
-}
-
-.map-nav a {
-	padding:.5rem;
-    padding: 2% 5% 0 5%;
-    font-size: 3rem;
-	letter-spacing:.1rem;
-    height: 5rem;
-    -webkit-appearance: none;
-}
-
-
-
-.map-nav>li>ul {
-	border-radius: 0 0 3rem 3rem;
-	background:rgb(206, 57, 72);
-}
-
-.map-nav ul a {
+	margin:0;
+	padding:0.4rem 1.4rem;
 	color:white;
 }
 
-.map-nav > li.current > a {
+ul.map-nav > li > a.current {
+	font-weight:700;
 	color:#fff;
-	background:rgb(206,57,72);
+	background-color:#c03;
 	border-radius:3rem 3rem 0 0;
 }
 
+ul.map-nav ul {
+	height:0px;
+	width:100%;
+	background:#c03;
+	border-radius:0 0 3rem 3rem;
+	z-index:1000;
+	overflow:hidden;
+}
 
+ul.map-nav ul a {
+	color:#fff;
+	padding: 0 0 0 2rem;
+}
+
+ul.map-nav ul.active {
+	height:auto;
+	position:absolute;
+	top:100%;
+	left:0px;
+	overflow:auto;
+	padding: 0 0 0 3rem;
+}
+
+ul.active li:first-child a {
+	height:auto;
+	position: relative;
+}
+
+ul.active li:first-child a img {
+    position: absolute;
+    height: 17px;
+    top: 50%;
+    left: -11px;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+}
 
 
 
@@ -390,7 +391,6 @@ ul.active ul.active {
 	}
 	.col.xs11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.xs12 {
 		width:100%;
@@ -425,7 +425,6 @@ ul.active ul.active {
 	}
 	.gutter .col.xs10 {
 		width:83%;
-		margin-left:1rem;
 	}
 	.gutter .col.xs11 {
 		width:91.5%;
@@ -548,6 +547,18 @@ ul.active ul.active {
 		width:30%;
 		margin-left:35%;
 	}
+	h1.bycollege {
+		font-size:5rem;
+		color:white;
+		font-weight:lighter;
+		margin:0 0 6% 0;
+	}
+	h2.mobileh2 {
+		color:white;
+		font-size:4rem;
+		font-weight:lighter;
+		margin:0 0 5% 0;
+	}
 }
 
 @media only screen and (min-width:1024px) {
@@ -590,7 +601,6 @@ ul.active ul.active {
 	}
 	.col.m11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.m12 {
 		width:100%;
@@ -642,4 +652,7 @@ ul.active ul.active {
 		margin:0 auto;
 		width:1200px;
 	}
+}
+.is-hidden {
+	display: none;
 }

@@ -20,13 +20,13 @@
         <div class="pageheader">
         	<div class="row gutter">
             	<div class="col">
-                	<img class="headericon" src="../images/directory.svg" alt="">
+                	<img class="headericon" src="../images/dining.svg" alt="">
                 </div>
             </div>
             <div class="row gutter">
             	<div class="col">
-                	<h1>Directory</h1>
-                	<h3>Search by college</h3>
+                	<h1>Dining</h1>
+                	<h3>THE ROCK</h3>
                 </div>
             </div>
        	</div>
@@ -39,15 +39,14 @@
                 	<div class="col m12 s12 xs12">
                         <div class="row gutter">
                             <div class="col">
-                                <a href=""><h1 class="bycollege">Arts & Sciences</h1></a>
-                                <a href="directory_cob.php"><h1 class="bycollege">Business</h1></a>
-                                <a href=""><h1 class="bycollege">Education & Human Services</h1></a>
-                                <a href=""><h1 class="bycollege">Engineering Technology</h1></a>
-                                <a href=""><h1 class="bycollege">Health Professions</h1></a>
-                                <a href=""><h1 class="bycollege">Kendal College of Art & Design</h1></a>
-                                <a href=""><h1 class="bycollege">Michigan College of Optometry</h1></a>
-                                <a href=""><h1 class="bycollege">Pharmacy</h1></a>
-                                <a href="directory_program.php"><h1 class="bycollege">By Program</h1></a>
+                                <a href=""><h1>Comfort Zone</h1></a>
+                                <a href=""><h1>Pizza</h1></a>
+                                <a href=""><h1>Woody's Grill</h1></a>
+                                <a href=""><h1>Island</h1></a>
+                                <a href=""><h1>Bakery/Dessert</h1></a>
+                                <a href=""><h1>Deli Bar</h1></a>
+                                <a href=""><h1>Pasta</h1></a>
+                                <a href=""><h1>Healthy Choice</h1></a>
                             </div>
                         </div>
                     </div>

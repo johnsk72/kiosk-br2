@@ -42,12 +42,12 @@
                                 <?php include("alphabet.php");?>
                             </div>
                             <div class="col m10 s10 xs10 scroll">
-                                <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Accountancy</h2></a>
-                                <a href=""><h2 class="mobileh2">Actuarlial Science</h2></a>
-                                <a href=""><h2 class="mobileh2">Advanced Studies</h2></a>
-                                <a href=""><h2 class="mobileh2">Avdertising / Integrated Marketing Communications</h2></a>
-                                <a href=""><h2 class="mobileh2">African American Studies</h2></a>
-                                <a href=""><h2 class="mobileh2">Allied Health Studies</h2></a>
+                                <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Stephen Allie</h2></a>
+                                <a href=""><h2 class="mobileh2">Derek Ameel</h2></a>
+                                <a href=""><h2 class="mobileh2">Billie Anderson</h2></a>
+                                <a href=""><h2 class="mobileh2">Lori Armstrong</h2></a>
+                                <a href=""><h2 class="mobileh2">Lawrence Bajor</h2></a>
+                                <a href=""><h2 class="mobileh2">Barbara Barney-McNamara</h2></a>
                                 <a href=""><h2 class="mobileh2">Applied Mathematics</h2></a>
                                 <a href=""><h2 class="mobileh2">Applied Speech</h2></a>
                                 <a href=""><h2 class="mobileh2">Architecture</h2></a>

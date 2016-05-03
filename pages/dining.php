@@ -26,7 +26,7 @@
             <div class="row gutter">
             	<div class="col">
                 	<h1>Dining</h1>
-                	<h3>Secondary Title Name</h3>
+                	<h3>DINING FACILITIES</h3>
                 </div>
             </div>
        	</div>
@@ -36,36 +36,13 @@
 					<?php include("sidenav.php");?>
                 </div>
                 <div class="col m10 s10 xs10">
-                     <div class="col m12 s12 xs12 orange">
-                        <h1>hey there, this is our kiosk interface.</h1>
+                	<div class="col m12 s12 xs12">
                         <div class="row gutter">
-                            <div class="col green">
-                                <h1>no</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col m12 s12 xs12 orange">
-                        <h1>hey there, this is our kiosk interface.</h1>
-                        <div class="row gutter">
-                            <div class="col m6 s6 xs6 green">
-                                <h1>no</h1>
-                            </div>
-                             <div class="col m6 s6 xs6 green">
-                                <h1>no</h1>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col m12 s12 xs12 orange">
-                        <h1>hey there, this is our kiosk interface.</h1>
-                        <div class="row gutter">
-                            <div class="col m4 s4 xs4 green">
-                                <h1>no</h1>
-                            </div>
-                            <div class="col m4 s4 xs4 green">
-                                <h1>no</h1>
-                            </div>
-                            <div class="col m4 s4 xs4 green">
-                                <h1>no</h1>
+                            <div class="col">
+                                <a href="dining_therock.php"><h1>The Rock</h1></a>
+                                <a href=""><h1>The Quad Cafe</h1></a>
+                                <a href=""><h1>Starbucks</h1></a>
+                                <a href=""><h1>The Market</h1></a>
                             </div>
                         </div>
                     </div>
