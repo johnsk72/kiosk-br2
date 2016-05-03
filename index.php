@@ -19,10 +19,12 @@
         </header>
         <div class="content">
             <div class="row gutter back">
-            	<a href="../landing.php"><li><h4>TOUCH HERE TO FREE BRUTUS</h4></li></a>
+            	<a href="../landing.php"><div class="circle-icon"><h4>TOUCH<br>TO START</h4></div></a>
         	</div>
         </div>
 	</div>
-    <!-- JS and Jquery go here -->
+	<div class="footer-picture">
+		<img src="images/brutus.png">
+	</div>
 </body>
 </html>

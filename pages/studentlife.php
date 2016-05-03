@@ -37,7 +37,7 @@
                 </div>
 				<div class="col m10 s10 xs10">
                 	<div class="col m4 s4 xs4">
-                        <img class="bulldog-highlight" src="../images/john-smith.jpg">
+                        <img class="bulldog-highlight" src="../images/john-smith.jpg" alt="john-smith">
 					</div>
 					<div class="col s1"><h5></h5></div>
 					<div class="col m7 s7 xs7">	
@@ -100,11 +100,9 @@
 					</div>
 				</div>
 			</div>
-        </div>
-			<div class="row gutter">
-				
+			<div class="footer-picture">
+				<img src="../images/woodbridge.png">
 			</div>
-        </div>
 	</div>
 	<script src="../js/jquery.min.js"></script>
 	<script>
