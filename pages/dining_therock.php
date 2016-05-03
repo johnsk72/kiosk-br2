@@ -26,7 +26,7 @@
             <div class="row gutter">
             	<div class="col">
                 	<h1>Dining</h1>
-                	<h3>DINING FACILITIES</h3>
+                	<h3>THE ROCK</h3>
                 </div>
             </div>
        	</div>
@@ -39,10 +39,14 @@
                 	<div class="col m12 s12 xs12">
                         <div class="row gutter">
                             <div class="col">
-                                <a href="dining_therock.php"><h1>The Rock</h1></a>
-                                <a href=""><h1>The Quad Cafe</h1></a>
-                                <a href=""><h1>Starbucks</h1></a>
-                                <a href=""><h1>The Market</h1></a>
+                                <a href=""><h1>Comfort Zone</h1></a>
+                                <a href=""><h1>Pizza</h1></a>
+                                <a href=""><h1>Woody's Grill</h1></a>
+                                <a href=""><h1>Island</h1></a>
+                                <a href=""><h1>Bakery/Dessert</h1></a>
+                                <a href=""><h1>Deli Bar</h1></a>
+                                <a href=""><h1>Pasta</h1></a>
+                                <a href=""><h1>Healthy Choice</h1></a>
                             </div>
                         </div>
                     </div>
