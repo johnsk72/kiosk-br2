@@ -46,10 +46,10 @@
 								<a href="#">Buildings</a>
 								<ul>
 									<li>
-										<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Dining</a>
+										<a href="#">Dining</a>
 										<ul>
 											<li>
-												<a href="#">The Rock Cafe</a>
+												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">The Rock Cafe</a>
 											</li>
 											<li>
 												<a href="#">Quad Cafe</a>
@@ -66,10 +66,10 @@
 										<a href="#">Housing</a>
 										<ul>
 											<li>
-												<a href="#">Residence Halls</a>
+												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Residence Halls</a>
 												<ul>
 													<li>
-														<a href="#">Bond, North &amp; South</a>
+														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bond, North &amp; South</a>
 													</li>
 													<li>
 														<a href="#">Brophy &amp; McNerney</a>
@@ -110,7 +110,7 @@
 												<a href="#">East Campus Suites</a>
 												<ul>
 													<li>
-														<a href="#">East Campus 1</a>
+														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">East Campus 1</a>
 													</li>
 													<li>
 														<a href="#">East Campus 2</a>
@@ -121,19 +121,18 @@
 												</ul>
 											</li>
 											<li>
+												<a href="#">Apartments</a>
 												<ul>
 													<li>
-														<a href="#">Apartments</a>
-														<ul>
-															<li>
-																<a href="#">Family Apartments</a>
-															</li>
-															<li>
-																<a href="#">Single Student Townhouses</a>
-															</li>
-														</ul>
+														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Apartment A</a>
 													</li>
-												</ul>
+													<li>
+														<a href="#">Apartment B</a>
+													</li>
+													<li>
+														<a href="#">Apartment C</a>
+													</li>
+											   </ul>
 											</li>
 										</ul>
 									</li>
@@ -141,7 +140,7 @@
 										<a href="#">Academic</a>
 										<ul>
 											<li>
-												<a href="#">Alied Health</a>
+												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Alied Health</a>
 											</li>
 											<li>
 												<a href="#">Alumni Building</a>
@@ -218,7 +217,7 @@
 										<a href="#">Entertainment</a>
 										<ul>
 											<li>
-												<a href="#">Bookstore</a>
+												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bookstore</a>
 											</li>
 											<li>
 												<a href="#">Ewigleben Sports Complex</a>
@@ -241,7 +240,7 @@
 										<a href="#">Student Health</a>
 										<ul>
 											<li>
-												<a href="#">Public Safety</a>
+												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Public Safety</a>
 											</li>
 											<li>
 												<a href="#">Raquet Facility</a>
@@ -258,7 +257,7 @@
 								<a href="#">Transportation</a>
 								<ul>
 									<li>
-										<a href="#">Bus Stops</a>
+										<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bus Stops</a>
 									</li>
 									<li>
 										<a href="#">Parking Lots</a>
@@ -269,7 +268,7 @@
 								<a href="#">Faculty & Staff</a>
 								<ul>
 									<li>
-										<a href="#">A-F</a>
+										<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">A-F</a>
 									</li>
 									<li>
 										<a href="#">G-M</a>
@@ -292,8 +291,12 @@
 				</div>
 			</div>
 		</div><!-- JS and Jquery go here -->
+		<div class="footer-picture">
+				<img src="../images/sculpture.png">
+		</div>
 		<script src="../js/jquery-1.12.3.min.js"></script>
 		<script src="../js/scripts.js" type="text/javascript" charset="utf-8"></script>
+		<script src="../js/CustomGoogleMapMarker.js" type="text/javascript" charset="utf-8"</script>
 		
 		
 		
