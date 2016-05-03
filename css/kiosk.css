@@ -20,6 +20,9 @@ body {
 	background: -webkit-linear-gradient(top,  #acacad 10%,#e6929c 85%);
 	background: linear-gradient(to bottom,  #acacad 10%,#e6929c 85%);
 	background-repeat:no-repeat;
+	height:100%;
+}
+body.stretch {
 	height:100vh;
 }
 
