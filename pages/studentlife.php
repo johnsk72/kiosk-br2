@@ -47,9 +47,32 @@
                 </div>
 				<div class="nav col m5 s5 xs5">
 					<h4 class="stulife">RSO Directory</h4>
+					<form class="rso-drop">
+						<select name="Choose an RSO">
+							<option value='default' selected>Choose an RSO</option>
+							<option value='Accounting-Association'>Accounting Association</opion>
+							<option value='ActiveMinds'>Active Minds, Inc.</option>
+							<option value='AdGroup'>AdGroup</option>
+							<option value='AdvocacyEducationGender'>AEGIS</option>
+							<option value='AfricanStudentUnion'>African Student Union</option>
+							<option value='AIGA'>AIGA</option>
+							<option value='AMA'>AMA</option>
+						</select>
 				</div>
 				<div class="nav col m5 s5 xs5">
 					<h4 class="stulife">Greek Life Directory</h4>
+					<form class="greek-drop">
+						<select name="Choose a Greek Organization">
+							<option value='default' selected>Choose a Greek Organization</option>
+							<option value='ACR'>Alpha Chi Rho</option>
+							<option value='APAF'>Alpha Kappa Alpha Fraternity</option>
+							<option value='AKA'>Alpha Kappa Alpha Sorority, Inc.</option>
+							<option value='AKP'>Alpha Kappa Psi</option>
+							<option value='APS'>Alpha Phi Sigma</option>
+							<option value='APO'>Alpha Psi Omega</option>
+							<option value='AST'>Alpha Sigma Tau</option>
+						</select>
+					</form>
 				</div>
 			</div>
         </div>
@@ -58,6 +81,5 @@
 			</div>
         </div>
 	</div>
-    <!-- JS and Jquery go here -->
 </body>
 </html>
