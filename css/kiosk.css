@@ -118,14 +118,6 @@ h4 {
 .nav h4 {
 	display:none;
 }
-
-h4.stulife {
-	text-align:left;
-	font-size:2.6rem;
-	text-transform:none;
-	font-weight:bold;
-	padding-left:0;
-}
 header h3,
 header h4 {
 	text-transform:uppercase;
@@ -175,12 +167,6 @@ header h4 {
 
 /* Paragraphs */
 p {
-	font-size:1.8rem;
-}
-p.stulife {
-	font-size:2.0rem;
-	line-height:2.6rem;
-	display:inline;
 }
 
 /* Images */
