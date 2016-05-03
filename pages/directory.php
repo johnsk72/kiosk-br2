@@ -39,15 +39,15 @@
                 	<div class="col m12 s12 xs12">
                         <div class="row gutter">
                             <div class="col">
-                                <a href=""><h1>Arts & Sciences</h1></a>
-                                <a href=""><h1>Business</h1></a>
-                                <a href=""><h1>Education & Human Services</h1></a>
-                                <a href=""><h1>Engineering Technology</h1></a>
-                                <a href=""><h1>Health Professions</h1></a>
-                                <a href=""><h1>Kendal College of Art & Design</h1></a>
-                                <a href=""><h1>Michigan College of Optometry</h1></a>
-                                <a href=""><h1>Pharmacy</h1></a>
-                                <a href="directory_program.php"><h1>By Program</h1></a>
+                                <a href=""><h1 class="bycollege">Arts & Sciences</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Business</h1></a>
+                                <a href=""><h1 class="bycollege">Education & Human Services</h1></a>
+                                <a href=""><h1 class="bycollege">Engineering Technology</h1></a>
+                                <a href=""><h1 class="bycollege">Health Professions</h1></a>
+                                <a href=""><h1 class="bycollege">Kendal College of Art & Design</h1></a>
+                                <a href=""><h1 class="bycollege">Michigan College of Optometry</h1></a>
+                                <a href=""><h1 class="bycollege">Pharmacy</h1></a>
+                                <a href="directory_program.php"><h1 class="bycollege">By Program</h1></a>
                             </div>
                         </div>
                     </div>

@@ -1,6 +1,6 @@
 <nav>
     <ul>
-        <img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt="">
+        <a href=""><img action="action" value="back" type="button" onclick="window.history.go(-1); return false;"  class="navsmallicon backbutton" src="../images/left.svg" alt=""></a>
         <a href="../../pages/dining.php"><li><img class="navicon din" src="../images/dining.svg" alt=""><h4>dining</h4></li></a>
         <a href="../../pages/events.php"><li><img class="navicon" src="../images/events.svg" alt=""><h4>events</h4></li></a>
         <a href="../../pages/directory.php"><li><img class="navicon" src="../images/directory.svg" alt=""><h4>directory</h4></li></a>
