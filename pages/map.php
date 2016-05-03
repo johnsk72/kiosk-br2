@@ -46,7 +46,7 @@
 								<a href="#">Buildings</a>
 								<ul>
 									<li>
-										<a href="#"><img src="../images/left.svg" alt="back button">Dining</a>
+										<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Dining</a>
 										<ul>
 											<li>
 												<a href="#">The Rock Cafe</a>

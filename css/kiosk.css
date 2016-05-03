@@ -318,8 +318,6 @@ ul.map-nav ul.active {
 }
 
 ul.active li:first-child a {
-	background-repeat:no-repeat;
-	width:15%;
 	height:auto;
 	position: relative;
 }
