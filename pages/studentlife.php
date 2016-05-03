@@ -44,9 +44,15 @@
                         <h4 class="stulife">John Smith</h4>
                         <p class="stulife">This is a random bulldog higlight. This will feature a current student in the college that the signage is located in with a description of what they are going to school for, what makes them so special, and where they are going in their life. I don’t know what else to write, so this is it.</p>
 					</div>	
-                    </div>
+                </div>
+				<div class="nav col m5 s5 xs5">
+					<h4 class="stulife">RSO Directory</h4>
 				</div>
-        	</div>
+				<div class="nav col m5 s5 xs5">
+					<h4 class="stulife">Greek Life Directory</h4>
+				</div>
+			</div>
+        </div>
 			<div class="row gutter">
 				
 			</div>
