@@ -39,14 +39,14 @@
                 	<div class="col m12 s12 xs12">
                         <div class="row gutter">
                             <div class="col">
-                                <a href=""><h1>Comfort Zone</h1></a>
-                                <a href=""><h1>Pizza</h1></a>
-                                <a href=""><h1>Woody's Grill</h1></a>
-                                <a href=""><h1>Island</h1></a>
-                                <a href=""><h1>Bakery/Dessert</h1></a>
-                                <a href=""><h1>Deli Bar</h1></a>
-                                <a href=""><h1>Pasta</h1></a>
-                                <a href=""><h1>Healthy Choice</h1></a>
+                                <a href=""><h1 class="bycollege">Comfort Zone</h1></a>
+                                <a href=""><h1 class="bycollege">Pizza</h1></a>
+                                <a href=""><h1 class="bycollege">Woody's Grill</h1></a>
+                                <a href=""><h1 class="bycollege">Island</h1></a>
+                                <a href=""><h1 class="bycollege">Bakery/Dessert</h1></a>
+                                <a href=""><h1 class="bycollege">Deli Bar</h1></a>
+                                <a href=""><h1 class="bycollege">Pasta</h1></a>
+                                <a href=""><h1 class="bycollege">Healthy Choice</h1></a>
                             </div>
                         </div>
                     </div>
