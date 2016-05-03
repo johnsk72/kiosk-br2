@@ -15,12 +15,12 @@ body {
 body {
 	padding:1.0rem;
 	color:white;
-	background: #f4ce3c;
-	background: -moz-linear-gradient(top,  #919396 0%, #cf8276 100%);
-	background: -webkit-linear-gradient(top,  #919396 0%,#cf8276 100%);
-	background: linear-gradient(to bottom,  #919396 0%,#cf8276 100%);
+	background: #fff;
+	background: -moz-linear-gradient(top,  #acacad 10%, #e6929c 85%);
+	background: -webkit-linear-gradient(top,  #acacad 10%,#e6929c 85%);
+	background: linear-gradient(to bottom,  #acacad 10%,#e6929c 85%);
 	background-repeat:no-repeat;
-	height:100%;
+	height:100vh;
 }
 
 
@@ -30,7 +30,7 @@ body {
 	width:100%;
 }
 .content {
-	padding:0 5% 0 2%;
+	padding:5% 5% 0 2%;
 	height:100%;
 }
 .row {
@@ -83,14 +83,25 @@ h1 {
 	font-size:5rem;
 	color:white;
 	font-weight:lighter;
-	line-height:8rem;
 	margin:0;
+}
+h1.bycollege {
+	font-size:2.8rem;
+	color:white;
+	font-weight:lighter;
+	margin:0 0 7% 0;
 }
 h2 {
 	color:white;
 	font-size:4rem;
 	font-weight:lighter;
 	margin:0 0 2.8rem 0;
+}
+h2.mobileh2 {
+	color:white;
+	font-size:2.8rem;
+	font-weight:lighter;
+	margin:0 0 7% 0;
 }
 h3 {
 	text-align:center;
@@ -104,7 +115,11 @@ h3.alphabet {
 	font-size:2.8rem;
 	font-weight:lighter;
 	margin:0;
-	padding-bottom:1rem;
+	padding-bottom:1.2rem;
+	color:white;
+}
+a.selected > h3.alphabet {
+	font-weight:bold;
 }
 h4 {
 	text-align:center;
@@ -138,9 +153,15 @@ header h4 {
 	font-weight:600;
 	margin-bottom:10%;
 }
+h4.stulife {
+	font-size:2rem;
+	font-weight:bold;
+	text-align:left;
+	padding-left:0rem;
+}
 .pageheader {
-	margin-top:3rem;
-	margin-bottom:1rem;
+	margin-top:5%;
+	margin-bottom:3%;
 }
 .pageheader h3,
 .pageheader h1 {
@@ -167,6 +188,21 @@ header h4 {
 
 /* Paragraphs */
 p {
+}
+
+p.stulife {
+	font-size:2rem;
+	line-height:2.8rem;
+}
+
+.rso p {
+	font-size:1.4rem;
+	line-height:2rem;
+}
+
+.greek p {
+	font-size:1.4rem;
+	line-height:2rem;
 }
 
 /* Images */
@@ -228,6 +264,10 @@ p {
 }
 .landing {
 	margin:20% 0 10% 5%;
+}
+.scroll {
+	overflow-y: scroll;
+    height:150rem;
 }
 
 /*Select*/
@@ -962,7 +1002,51 @@ ul.active li:first-child a img {
     -webkit-transform: translateY(-50%);
 }
 
+img.bulldog-highlight {
+	border-radius:1.6rem;
+}
 
+.rso {
+	display:none;
+}
+
+.greek {
+	display:none;
+}
+
+select {
+	background-color:#ffffff;
+	border-radius:1rem;
+	font-size:2rem;
+	color:#C83D49;
+	box-shadow:0rem 0rem .6rem #333;
+}
+
+.footer-picture img {
+	position:fixed;
+	bottom:-7rem;
+	right:-2rem;
+	z-index:-1;
+	opacity:0.45;
+}
+
+.circle-icon {
+	position:relative;
+	width:40rem;
+	height:40rem;
+	padding-top:10.5rem;
+	display:block;
+	margin:0 auto;
+	border-radius:50%;
+	background: -moz-linear-gradient(top,  #CE3948 50%, #CC5466 50.1%);
+	background: -webkit-linear-gradient(-135deg,  #CE3948 50%,#CC5466 50.1%);
+	background: linear-gradient(135deg,  #CE3948 50%,#CC5466 50.1%);
+}
+
+.circle-icon h4 {
+	font-size:7rem;
+	line-height:8rem;
+}
 
 @media (min-width:130px) {
 	.gutter > .col {
@@ -1003,7 +1087,6 @@ ul.active li:first-child a img {
 	}
 	.col.xs11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.xs12 {
 		width:100%;
@@ -1038,7 +1121,6 @@ ul.active li:first-child a img {
 	}
 	.gutter .col.xs10 {
 		width:83%;
-		margin-left:1rem;
 	}
 	.gutter .col.xs11 {
 		width:91.5%;
@@ -1161,6 +1243,18 @@ ul.active li:first-child a img {
 		width:30%;
 		margin-left:35%;
 	}
+	h1.bycollege {
+		font-size:5rem;
+		color:white;
+		font-weight:lighter;
+		margin:0 0 6% 0;
+	}
+	h2.mobileh2 {
+		color:white;
+		font-size:4rem;
+		font-weight:lighter;
+		margin:0 0 5% 0;
+	}
 }
 
 @media only screen and (min-width:1024px) {
@@ -1203,7 +1297,6 @@ ul.active li:first-child a img {
 	}
 	.col.m11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.m12 {
 		width:100%;
