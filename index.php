@@ -19,7 +19,7 @@
         </header>
         <div class="content">
             <div class="row gutter back">
-            	<a href="../landing.php"><div class="circle-icon"><h4>TOUCH<br>TO START</h4></div></a>
+            	<a href="landing.php"><div class="circle-icon"><h4>TOUCH<br>TO START</h4></div></a>
         	</div>
         </div>
 	</div>
