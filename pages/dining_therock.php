@@ -53,7 +53,7 @@
                 </div>
         	</div>
 			<div class="footer-picture">
-				<img src="../images/rock.png">
+				<img src="../images/new-flite.png">
 			</div>
         </div>
 	</div>

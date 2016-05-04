@@ -70,7 +70,7 @@
         	</div>
         </div>
 		<div class="footer-picture">
-			<img src="../images/woodbridge.png">
+			<img src="../images/new-flite.png">
 		</div>
     <div class="message1 overlay"></div>
 	</div>

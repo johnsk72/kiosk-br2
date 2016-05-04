@@ -112,7 +112,7 @@
         	</div> <!--main row gutter ends here-->
         </div> <!--content ends here-->
 		<div class="footer-picture">
-			<img src="../images/UC.png">
+			<img src="../images/new-flite.png">
 		</div>
 	</div>
     <!-- JS and Jquery go here -->

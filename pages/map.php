@@ -49,7 +49,7 @@
 										<a href="#">Dining</a>
 										<ul>
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">The Rock Cafe</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">The Rock Cafe</a>
 											</li>
 											<li>
 												<a href="#">Quad Cafe</a>
@@ -66,10 +66,10 @@
 										<a href="#">Housing</a>
 										<ul>
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Residence Halls</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Residence Halls</a>
 												<ul>
 													<li>
-														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bond, North &amp; South</a>
+														<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Bond, North &amp; South</a>
 													</li>
 													<li>
 														<a href="#">Brophy &amp; McNerney</a>
@@ -110,7 +110,7 @@
 												<a href="#">East Campus Suites</a>
 												<ul>
 													<li>
-														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">East Campus 1</a>
+														<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">East Campus 1</a>
 													</li>
 													<li>
 														<a href="#">East Campus 2</a>
@@ -124,7 +124,7 @@
 												<a href="#">Apartments</a>
 												<ul>
 													<li>
-														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Apartment A</a>
+														<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Apartment A</a>
 													</li>
 													<li>
 														<a href="#">Apartment B</a>
@@ -140,7 +140,7 @@
 										<a href="#">Academic</a>
 										<ul class="tall">
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Alied Health</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Alied Health</a>
 											</li>
 											<li>
 												<a href="#">Alumni Building</a>
@@ -217,7 +217,7 @@
 										<a href="#">Entertainment</a>
 										<ul>
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bookstore</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Bookstore</a>
 											</li>
 											<li>
 												<a href="#">Ewigleben Sports Complex</a>
@@ -240,7 +240,7 @@
 										<a href="#">Student Health</a>
 										<ul>
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Public Safety</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Public Safety</a>
 											</li>
 											<li>
 												<a href="#">Raquet Facility</a>
@@ -257,7 +257,7 @@
 								<a href="#">Transportation</a>
 								<ul>
 									<li>
-										<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bus Stops</a>
+										<a href="#">Bus Stops</a>
 									</li>
 									<li>
 										<a href="#">Parking Lots</a>
@@ -268,13 +268,10 @@
 								<a href="#">Faculty & Staff</a>
 								<ul>
 									<li>
-										<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">A-F</a>
+										<a href="#">A-F</a>
 										<ul class="tall">
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Alied Health</a>
-											</li>
-											<li>
-												<a href="#">Amidon, Rick</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Amidon, Rick</a>
 											</li>
 											<li>
 												<a href="#">Balkema, Sandra</a>
@@ -351,10 +348,7 @@
 										<a href="#">G-M</a>
 										<ul class="tall">
 											<li>
-												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Alied Health</a>
-											</li>
-											<li>
-												<a href="#">Harris, Katherine</a>
+												<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Harris, Katherine</a>
 											</li>
 											<li>
 												<a href="#">Hoover, Jennifer</a>
@@ -386,7 +380,7 @@
 										<a href="#">N-S</a>
 										<ul class="tall">
 										<li>
-											<a href="#">Nelson, Laurie</a>
+											<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Nelson, Laurie</a>
 										</li>
 										<li>
 											<a href="#">Nelson, Nathan</a>
@@ -433,8 +427,9 @@
 									</li>
 									<li>
 										<a href="#">T-Z</a>
-										<li>
-											<a href="#">Taylor, Thomas</a>
+										<ul class="tall">
+											<li>
+											<a href="#"><img src="../images/map-left.svg" alt="back button" class="back-button">Taylor, Thomas</a>
 										</li>
 										<li>
 											<a href="#">Taylor, Jonathan</a>
@@ -491,7 +486,7 @@
 				</div>
 			</div>
 			<div class="footer-picture">
-					<img src="../images/scultpure.png">
+					<img src="../images/new-flite.png">
 			</div>
 		</div><!-- JS and Jquery go here -->
 		<script src="../js/jquery.min.js"></script>
