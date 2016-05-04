@@ -878,7 +878,6 @@ ul.active li:first-child a img {
 	}
 	.col.m11 {
 		width:91.666%;
-		margin-left:1rem;
 	}
 	.col.m12 {
 		width:100%;
@@ -913,7 +912,6 @@ ul.active li:first-child a img {
 	}
 	.gutter .col.m10 {
 		width:83%;
-		margin-left:1rem;
 	}
 	.gutter .col.m11 {
 		width:91.5%;
@@ -1338,7 +1336,6 @@ select {
 	}
 	.gutter .col.m10 {
 		width:83%;
-		margin-left:1rem;
 	}
 	.gutter .col.m11 {
 		width:91.5%;
