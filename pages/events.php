@@ -104,13 +104,16 @@
                                 	<h1>Want To Know The Latest Events?</h1>
                                 </div>
 								<div class="col m12 s12 xs12 buttonsec">
-									<a href="../pages/events_calendar.php" class="buttonred">TAP HERE</a>
+									<a href="#" class="buttonred">TAP HERE</a>
 								</div>	
                             </div>
                         </div>
                 </div> <!--div col m10 s10 xs10 ends here-->
         	</div> <!--main row gutter ends here-->
         </div> <!--content ends here-->
+		<div class="footer-picture">
+			<img src="../images/UC.png">
+		</div>
 	</div>
     <!-- JS and Jquery go here -->
 </body>

@@ -26,6 +26,5 @@
 	<div class="footer-picture">
 		<img src="images/brutus.png">
 	</div>
-	
 </body>
 </html>

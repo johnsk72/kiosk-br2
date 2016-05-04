@@ -46,7 +46,7 @@
 								<a href="#">Buildings</a>
 								<ul>
 									<li>
-										<a href="#"><img src="../images/left.svg" alt="back button">Dining</a>
+										<a href="#">Dining</a>
 										<ul>
 											<li>
 												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">The Rock Cafe</a>
@@ -66,17 +66,10 @@
 										<a href="#">Housing</a>
 										<ul>
 											<li>
-<<<<<<< Updated upstream
 												<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Residence Halls</a>
 												<ul>
 													<li>
 														<a href="#"><img src="../images/left.svg" alt="back button" class="back-button">Bond, North &amp; South</a>
-=======
-												<a href="#">Residence Halls</a>
-												<ul>
-													<li>
-														<a href="#">Bond, North &amp; South</a>
->>>>>>> Stashed changes
 													</li>
 													<li>
 														<a href="#">Brophy &amp; McNerney</a>
