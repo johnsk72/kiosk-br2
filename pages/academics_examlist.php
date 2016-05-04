@@ -39,8 +39,49 @@
                 	<div class="col m12 s12 xs12">
                         <div class="row gutter">
                             <div class="col m10 s10">
-                                <h3>Here is your schedule based on <br> the times of your class(es) given.</h3>                           
-                            </div>                          
+                                <h3>Here is your schedule based on <br> the times of your class(es) given.</h3>
+                            </div>  
+						<div class="col m10 s10 xs10">
+							<div class="row gutter">
+									<table>
+										<thead>
+											<tr>
+												<th>Time of Class</th>
+												<th>Time of Exam</th>
+												<th>Day of Exam</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr class="even">
+												<td>9:30 am</td>
+												<td>3:00 pm - 4:40 pm</td>
+												<td>Mon. May 3</td>
+											</tr>
+										</tbody>
+										<tbody>
+											<tr class="odd">
+												<td>1:30 pm</td>
+												<td>9:40 am - 11:00 am</td>
+												<td>Thurs. May 3</td>
+											</tr>
+										</tbody>
+										<tbody>
+											<tr class="even">
+												<td>9:30 am</td>
+												<td>3:00 pm - 4:40 pm</td>
+												<td>Mon. May 3</td>
+											</tr>
+										</tbody>
+										<tbody>
+											<tr class="odd">
+												<td>1:30 pm</td>
+												<td>9:40 am - 11:00 am</td>
+												<td>Thurs. May 3</td>
+											</tr>
+										</tbody>										
+									</table>
+								</div>
+							</div>												                     
                         </div>                       
                 	</div>
                 </div>

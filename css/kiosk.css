@@ -342,6 +342,49 @@ img.search {
 	margin-left:45%;
 }
 
+
+/* Tables */
+
+* {
+	box-sizing:border-box;
+}
+body {
+	margin:0;
+	padding:0;
+	font-family:helvetica,arial,sans-serif;
+}
+
+table {
+	width:100%;
+	border-collapse:collapse;
+}
+
+thead th {
+	color:#fff;
+	background-color:#666;
+}
+
+th,
+td {
+	vertical-align:top;
+	padding:30px;
+}
+
+th {
+	text-align:left;
+	border-bottom:solid 1px #333;
+}
+
+td {
+	width:40%;
+}
+tr.even td {
+	background:#CC5466;
+}
+tr.odd td {
+	background:#fff;
+}
+
 /*Select*/
 select {
    background:white;
