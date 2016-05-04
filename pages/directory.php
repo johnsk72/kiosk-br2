@@ -28,6 +28,19 @@
                 	<h1>Directory</h1>
                 	<h3>Search by college</h3>
                 </div>
+                <div class="col">
+                 	<a href="" class="trigger1"><img class="search" src="../images/search.svg"></a>
+                     	<div class="toggle">
+                        	<div class="message1 popup">
+                            	<h4 class="popuph4">List Search By</h4>
+                                <a href="#"><div class="popupbox"></div><h3 class="popuph3">college</h3></a>
+                                <a href="directory_program.php"><div class="popupbox"></div><h3 class="popuph3">program</h3></a>
+                                <a href="#"><div class="popupbox"></div><h3 class="popuph3">room</h3></a>
+                                <a href="#"><div class="popupbox"></div><h3 class="popuph3">last name</h3></a>
+                                <h4 class="popuph4close trigger1">close</h4>
+                   			</div>
+                 		</div>
+            	</div>
             </div>
        	</div>
         <div class="content">
@@ -47,7 +60,6 @@
                                 <a href=""><h1 class="bycollege">Kendal College of Art & Design</h1></a>
                                 <a href=""><h1 class="bycollege">Michigan College of Optometry</h1></a>
                                 <a href=""><h1 class="bycollege">Pharmacy</h1></a>
-                                <a href="directory_program.php"><h1 class="bycollege">By Program</h1></a>
                             </div>
                         </div>
                     </div>
@@ -57,7 +69,16 @@
 		<div class="footer-picture">
 			<img src="../images/woodbridge.png">
 		</div>
+    <div class="message1 overlay"></div>
 	</div>
     <!-- JS and Jquery go here -->
+    <script src="../js/jquery-1.11.2.min.js"></script>
+    <script>
+    	//jquery goes here
+		$(".trigger1").click(function() {
+			$(".message1").toggle();
+			return false;
+		});
+    </script>
 </body>
 </html>
