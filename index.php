@@ -30,7 +30,7 @@
         	</div>
         </div>
 	</div>
-	<div class="footer-picture">
+	<div class="footer-picture brutus">
 		<img src="../images/brutus.png">
 	</div>
 </body>

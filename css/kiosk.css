@@ -1084,6 +1084,14 @@ select {
 	right:0rem;
 	z-index:-1;
 }
+.brutus img {
+	position:fixed;
+	height:50rem;
+	width:28rem;
+	bottom:-10rem;
+	right:0rem;
+	z-index:-1;
+}
 
 .circle-icon {
 	position:relative;
