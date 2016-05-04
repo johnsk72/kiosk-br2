@@ -16,9 +16,8 @@ body {
 	padding:1.0rem;
 	color:white;
 	background: #fff;
-	background: -moz-linear-gradient(top,  #acacad 10%, #631E28 85%);
-	background: -webkit-linear-gradient(top,  #acacad 10%,#631E28 85%);
-	background: linear-gradient(to bottom,  #acacad 10%,#631E28 85%);
+	background: url("../images/background.jpg") fixed;
+	background-size:cover;
 	background-repeat:no-repeat;
 	height:100%;
 }
@@ -1041,10 +1040,18 @@ img.bulldog-highlight {
 
 .rso {
 	display:none;
+	background:rgba(20, 20, 20, 0.8);
+	padding:1.2rem;
+	margin-top:1rem;
+	border-radius:1.2rem;
 }
 
 .greek {
 	display:none;
+	background:rgba(20, 20, 20, 0.8);
+	padding:1.2rem;
+	margin-top:1rem;
+	border-radius:1.2rem;
 }
 
 select {
@@ -1057,10 +1064,10 @@ select {
 
 .footer-picture img {
 	position:fixed;
-	bottom:-7rem;
-	right:-2rem;
+	width:100%;
+	bottom:-10rem;
+	right:0rem;
 	z-index:-1;
-	opacity:0.45;
 }
 
 .circle-icon {

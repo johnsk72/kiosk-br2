@@ -37,7 +37,7 @@
                 </div>
                 <div class="col m10 s10 xs10"> <!--col m10 starts here-->
                    		<div class="col m12 s12 xs12"> <!--col m12 row starts here-->
-                        	<div class="row gutter events orange"> <!--row gutter event row one starts here-->
+                        	<div class="row gutter events"> <!--row gutter event row one starts here-->
                             	<div class="col m4 s4 xs12">
                                     <a href="../pages/events_ferriststate.php" class="img-responsive"><img src="../images/eventone.png" alt="">
                                     </a>
@@ -68,7 +68,7 @@
                         	</div> <!--row gutter event row one ends-->
                     	</div> <!--col m12 ends here-->
                     	<div class="col m12 s12 xs12"> <!--col m12 s12 starts here-->
-                        	<div class="row gutter events orange"> <!--row gutter event row two starts here-->
+                        	<div class="row gutter events"> <!--row gutter event row two starts here-->
                             	<div class="col m4 s4 xs12">
                                     <a href="#" class="img-responsive"><img src="../images/eventfour.png" alt="">
                                     </a>
