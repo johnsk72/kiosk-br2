@@ -31,7 +31,7 @@
         </div>
 	</div>
 	<div class="footer-picture">
-		<img src="../images/new-flite.png">
+		<img src="../images/brutus.png">
 	</div>
 </body>
 </html>
