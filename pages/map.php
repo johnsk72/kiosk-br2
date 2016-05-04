@@ -8,8 +8,8 @@
 		</title><!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
+		<link href='https://fonts.googleapis.com/css?family=Lato:400,700,300' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="../css/kiosk.css" type="text/css" media="screen">
-		<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
 	</head>
 	<body>
 		<header>

@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -376,9 +378,26 @@ table {
 	border-collapse:collapse;
 }
 
+tr:first-child td:first-child {
+	border-radius:2.0rem 0 0 0;
+}
+tr:first-child td:last-child {
+	border-radius:0 2.0rem 0 0;
+}
+tr:last-child td:first-child {
+	border-radius:0 0 0 2.0rem;
+}
+tr:last-child td:last-child {
+	border-radius:0 0 2.0rem 0;
+}
+
 thead th {
 	color:#fff;
-	background-color:#666;
+	background-color:transparent;
+}
+
+tbody {
+	border-radius: 3rem;
 }
 
 th,
@@ -389,13 +408,9 @@ td {
 
 th {
 	text-align:left;
-	border-bottom:solid 1px #333;
 	font-size:2.0rem;
 }
 
-td {
-	width:35;
-}
 tr.even td {
 	background:#CC5466;
 	font-size:2.0rem;

@@ -7,8 +7,8 @@
         <!--[if lt IE 9]>
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
-		<link rel="stylesheet" href="../css/kiosk.css" type="text/css" media="screen">
         <link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="../css/kiosk.css" type="text/css" media="screen">
 </head>
 <body>
 	<header>
@@ -57,22 +57,16 @@
 												<td>3:00 pm - 4:40 pm</td>
 												<td>Mon. May 3</td>
 											</tr>
-										</tbody>
-										<tbody>
 											<tr class="odd">
 												<td>1:30 pm</td>
 												<td>9:40 am - 11:00 am</td>
 												<td>Thurs. May 3</td>
 											</tr>
-										</tbody>
-										<tbody>
 											<tr class="even">
 												<td>9:30 am</td>
 												<td>3:00 pm - 4:40 pm</td>
 												<td>Mon. May 3</td>
 											</tr>
-										</tbody>
-										<tbody>
 											<tr class="odd">
 												<td>1:30 pm</td>
 												<td>9:40 am - 11:00 am</td>
