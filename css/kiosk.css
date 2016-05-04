@@ -1127,6 +1127,7 @@ select {
 .pulse {
     -webkit-animation-name: pulse;
     animation-name: pulse;
+	-webkit-animation-iteration-count: infinite;
 }
 
 @media (min-width:130px) {
