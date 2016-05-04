@@ -51,6 +51,30 @@
                  <div class="col m10 s10 xs10">
                  	<div class="col m12 s12 xs12">
                         <div class="row gutter">
+                        	<h4 class="staff">Mrs. Bulldog</h4>
+                        </div>
+                        <div class="row gutter">
+                        	<img class="staff" src="../images/mrs.bulldog.png">
+                        </div>
+                    </div>
+                    <div class="col m12 s12 xs12">
+                        <div class="row gutter">
+                            <div class="col m6 s6 xs6">
+                                <p>Mrs. Bulldog is a member of Communication Honor's Society. She has a Bachelor of Science in Applied Speech Communications and a Master of Science in Career and Technical Education.</p>
+                            </div>
+                             <div class="col m6 s6 xs6">
+                                <p class="staffinfo">Office: Bus 212D</p>
+                                <p class="staffinfo">Email: Bulldog@ferris.edu</p>
+                                <p class="staffinfo">Phone: 231-591-2483</p>
+                                <p class="staffinfo">Office Hours: M&W 1PM-3PM</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col m12 s12 xs12">
+                        <div class="row gutter">
+                            <div class="col">
+                                <a href="../pages/map.php"><h4 class="findbutton">Find office</h4></a>
+                            </div>
                         </div>
                     </div>
                 </div>
