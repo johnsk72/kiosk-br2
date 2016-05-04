@@ -1078,7 +1078,7 @@ select {
 	width: 45rem;
 	height: 45rem;
 	border-radius: 50%;
-	border: 1pt solid white;
+	border: 2pt solid white;
 	position:absolute;
 	margin:0 auto;
 	top:14rem;
@@ -1089,23 +1089,27 @@ select {
 	width: 49rem;
 	height: 49rem;
 	border-radius: 50%;
-	border: 1pt solid white;
+	border: 2pt solid white;
 	position:absolute;
 	margin:0 auto;
 	top:12rem;
 	right:0;
 	left:0;
+	opacity: 0.5;
+    filter: alpha(opacity=50);
 }
 .circle3 {
 	width: 53rem;
 	height: 53rem;
 	border-radius: 50%;
-	border: 1pt solid white;
+	border: 2pt solid white;
 	position:absolute;
 	margin:0 auto;
 	top:10rem;
 	right:0;
 	left:0;
+	opacity: 0.2;
+    filter: alpha(opacity=20);
 }
 .animated {
     -webkit-animation-duration: 2s;
