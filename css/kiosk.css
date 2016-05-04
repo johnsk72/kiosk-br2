@@ -16,9 +16,9 @@ body {
 	padding:1.0rem;
 	color:white;
 	background: #fff;
-	background: -moz-linear-gradient(top,  #acacad 10%, #e6929c 85%);
-	background: -webkit-linear-gradient(top,  #acacad 10%,#e6929c 85%);
-	background: linear-gradient(to bottom,  #acacad 10%,#e6929c 85%);
+	background: -moz-linear-gradient(top,  #acacad 10%, #631E28 85%);
+	background: -webkit-linear-gradient(top,  #acacad 10%,#631E28 85%);
+	background: linear-gradient(to bottom,  #acacad 10%,#631E28 85%);
 	background-repeat:no-repeat;
 	height:100%;
 }
