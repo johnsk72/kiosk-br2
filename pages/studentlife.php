@@ -101,7 +101,7 @@
 				</div>
 			</div>
 			<div class="footer-picture">
-				<img src="../images/woodbridge.png">
+				<img src="../images/student.png">
 			</div>
 	</div>
 	<script src="../js/jquery.min.js"></script>
