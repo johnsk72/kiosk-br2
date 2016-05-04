@@ -20,6 +20,13 @@
         <div class="content">
             <div class="row gutter back">
             	<a href="landing.php"><div class="circle-icon"><h4>TOUCH<br>TO START</h4></div></a>
+                <!--
+                <div class="animated pulse circle">
+                    </div>
+                    <div class="animated pulse circle2">
+                    </div>
+                    <div class="animated pulse circle3">
+                    </div>-->
         	</div>
         </div>
 	</div>

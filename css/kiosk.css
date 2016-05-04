@@ -16,9 +16,9 @@ body {
 	padding:1.0rem;
 	color:white;
 	background: #fff;
-	background: -moz-linear-gradient(top,  #acacad 10%, #e6929c 85%);
-	background: -webkit-linear-gradient(top,  #acacad 10%,#e6929c 85%);
-	background: linear-gradient(to bottom,  #acacad 10%,#e6929c 85%);
+	background: -moz-linear-gradient(top,  #acacad 10%, #631E28 85%);
+	background: -webkit-linear-gradient(top,  #acacad 10%,#631E28 85%);
+	background: linear-gradient(to bottom,  #acacad 10%,#631E28 85%);
 	background-repeat:no-repeat;
 	height:100%;
 }
@@ -355,6 +355,52 @@ img.search {
 	margin-left:45%;
 }
 
+/* Circle Animation */
+.circle {
+	width: 45rem;
+	height: 45rem;
+	border-radius: 50%;
+	border: 1pt solid white;
+	position:fixed;
+	margin:-43rem 0 0 22%;
+}
+.circle2 {
+	width: 49rem;
+	height: 49rem;
+	border-radius: 50%;
+	border: 1pt solid white;
+	position:fixed;
+	margin:-45rem 0 0 20.5%;
+}
+.circle3 {
+	width: 53rem;
+	height: 53rem;
+	border-radius: 50%;
+	border: 1pt solid white;
+	position:fixed;
+	margin:-47rem 0 0 19%;
+}
+.animated {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+	animation:2s;
+}
+@-webkit-keyframes pulse {
+    0% { -webkit-transform: scale(1); }
+    50% { -webkit-transform: scale(1.1); }
+    100% { -webkit-transform: scale(1); }
+}
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+.pulse {
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+}
 
 /* Tables */
 
