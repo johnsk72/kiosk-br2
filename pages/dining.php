@@ -50,7 +50,7 @@
         	</div>
         </div>
 		<div class="footer-picture">
-			<img src="../images/new-filte.png">
+				<img src="../images/new-flite.png">
 		</div>
 	</div>
     <!-- JS and Jquery go here -->
