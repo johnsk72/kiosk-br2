@@ -35,8 +35,8 @@
                             	<h4 class="popuph4">List Search By</h4>
                                 <a href="directory.php"><div class="popupbox"></div><h3 class="popuph3">college</h3></a>
                                 <a href="directory_program.php"><div class="popupbox"></div><h3 class="popuph3">program</h3></a>
-                                <a href="directory_room"><div class="popupbox"></div><h3 class="popuph3">room</h3></a>
-                                <a href="directory_lastname"><div class="popupbox"></div><h3 class="popuph3">last name</h3></a>
+                                <a href="directory_room.php"><div class="popupbox"></div><h3 class="popuph3">room</h3></a>
+                                <a href="directory_lastname.php"><div class="popupbox"></div><h3 class="popuph3">last name</h3></a>
                                 <h4 class="popuph4close trigger1">close</h4>
                    			</div>
                  		</div>

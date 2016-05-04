@@ -55,7 +55,7 @@
                                 <?php include("alphabet.php");?>
                             </div>
                             <div class="col m10 s10 xs10 scroll">
-                                <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Accountancy</h2></a>
+                                <a name="a"><a href="../pages/directory_namelist.php"><h2 class="mobileh2">Accountancy</h2></a></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Actuarlial Science</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Advanced Construction Management</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Advanced Studies</h2></a>
@@ -67,14 +67,14 @@
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Architecture</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Art History</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Automotive</h2></a>
-                                <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Biochemistry</h2></a>
+                                <a name="b"><a href="../pages/directory_namelist.php"><h2 class="mobileh2">Biochemistry</h2></a></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Biology</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Biotechnology</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Building Construction Tecnology</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Business Administration</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Business Data Analytics</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Business</h2></a>
-                                <a href="../pages/directory_namelist.php"><h2 class="mobileh2">CAD Drafting & Toll Design Technology</h2></a>
+                                <a name="c"><a href="../pages/directory_namelist.php"><h2 class="mobileh2">CAD Drafting & Toll Design Technology</h2></a></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Career & Technical Education</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Cereer Exploration</h2></a>
                                 <a href="../pages/directory_namelist.php"><h2 class="mobileh2">Cell and Molecular Biology</h2></a>

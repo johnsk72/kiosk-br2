@@ -55,17 +55,14 @@
                                 <?php include("alphabet.php");?>
                             </div>
                             <div class="col m10 s10 xs10 scroll">
-                                <a href=""><h2 class="mobileh2">Accountancy</h2></a>
-                                <a href=""><h2 class="mobileh2">Actuarlial Science</h2></a>
-                                <a href=""><h2 class="mobileh2">Advanced Studies</h2></a>
-                                <a href=""><h2 class="mobileh2">Avdertising / Integrated Marketing Communications</h2></a>
-                                <a href=""><h2 class="mobileh2">African American Studies</h2></a>
-                                <a href=""><h2 class="mobileh2">Allied Health Studies</h2></a>
-                                <a href=""><h2 class="mobileh2">Applied Mathematics</h2></a>
-                                <a href=""><h2 class="mobileh2">Applied Speech</h2></a>
-                                <a href=""><h2 class="mobileh2">Architecture</h2></a>
-                                <a href=""><h2 class="mobileh2">Art History</h2></a>
-                                <a href=""><h2 class="mobileh2">Automotive</h2></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Arts & Sciences</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Business</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Education & Human Services</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Engineering Technology</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Health Professions</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Kendal College of Art & Design</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Michigan College of Optometry</h1></a>
+                                <a href="directory_cob.php"><h1 class="bycollege">Pharmacy</h1></a>
                             </div>
                         </div>
                     </div>
