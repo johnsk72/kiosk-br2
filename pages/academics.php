@@ -80,7 +80,7 @@
                         </div>
                         <div class="row gutter">
                             <div class="col">
-                                <a href="#" class="button go">Go</a>
+                                <a href="academics_examlist.php" class="button go">Go</a>
                             </div>
                         </div>
                 	</div>

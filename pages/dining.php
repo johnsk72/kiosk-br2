@@ -49,6 +49,9 @@
                 </div>
         	</div>
         </div>
+		<div class="footer-picture">
+			<img src="../images/rock.png">
+		</div>
 	</div>
     <!-- JS and Jquery go here -->
 </body>

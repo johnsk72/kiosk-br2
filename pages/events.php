@@ -111,6 +111,9 @@
                 </div> <!--div col m10 s10 xs10 ends here-->
         	</div> <!--main row gutter ends here-->
         </div> <!--content ends here-->
+		<div class="footer-picture">
+			<img src="../images/UC.png">
+		</div>
 	</div>
     <!-- JS and Jquery go here -->
 </body>
