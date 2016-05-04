@@ -121,6 +121,11 @@ h3.alphabet {
 	padding-bottom:1.2rem;
 	color:white;
 }
+
+.lit h3.alphabet {
+	font-weight:bold;
+}
+
 h4 {
 	text-align:center;
 	font-size:1.2rem;
@@ -355,52 +360,6 @@ img.search {
 	margin-left:45%;
 }
 
-/* Circle Animation */
-.circle {
-	width: 45rem;
-	height: 45rem;
-	border-radius: 50%;
-	border: 1pt solid white;
-	position:fixed;
-	margin:-43rem 0 0 22%;
-}
-.circle2 {
-	width: 49rem;
-	height: 49rem;
-	border-radius: 50%;
-	border: 1pt solid white;
-	position:fixed;
-	margin:-45rem 0 0 20.5%;
-}
-.circle3 {
-	width: 53rem;
-	height: 53rem;
-	border-radius: 50%;
-	border: 1pt solid white;
-	position:fixed;
-	margin:-47rem 0 0 19%;
-}
-.animated {
-    -webkit-animation-duration: 2s;
-    animation-duration: 2s;
-    -webkit-animation-fill-mode: both;
-    animation-fill-mode: both;
-	animation:2s;
-}
-@-webkit-keyframes pulse {
-    0% { -webkit-transform: scale(1); }
-    50% { -webkit-transform: scale(1.1); }
-    100% { -webkit-transform: scale(1); }
-}
-@keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-}
-.pulse {
-    -webkit-animation-name: pulse;
-    animation-name: pulse;
-}
 
 /* Tables */
 
@@ -1104,18 +1063,80 @@ select {
 	position:relative;
 	width:40rem;
 	height:40rem;
-	padding-top:10.5rem;
+	padding:10.5rem 0 0 0;
 	display:block;
 	margin:0 auto;
+	left:1.5rem;
 	border-radius:50%;
 	background: -moz-linear-gradient(top,  #CE3948 50%, #CC5466 50.1%);
 	background: -webkit-linear-gradient(-135deg,  #CE3948 50%,#CC5466 50.1%);
 	background: linear-gradient(135deg,  #CE3948 50%,#CC5466 50.1%);
+	z-index:100;
 }
 
 .circle-icon h4 {
 	font-size:7rem;
 	line-height:8rem;
+}
+/* Circle Animation */
+.circle {
+	width: 45rem;
+	height: 45rem;
+	border-radius: 50%;
+	border: 2pt solid white;
+	position:absolute;
+	margin:0 auto;
+	top:14rem;
+	right:0;
+	left:0;
+}
+.circle2 {
+	width: 49rem;
+	height: 49rem;
+	border-radius: 50%;
+	border: 2pt solid white;
+	position:absolute;
+	margin:0 auto;
+	top:12rem;
+	right:0;
+	left:0;
+	opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+.circle3 {
+	width: 53rem;
+	height: 53rem;
+	border-radius: 50%;
+	border: 2pt solid white;
+	position:absolute;
+	margin:0 auto;
+	top:10rem;
+	right:0;
+	left:0;
+	opacity: 0.2;
+    filter: alpha(opacity=20);
+}
+.animated {
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+	animation:2s;
+}
+@-webkit-keyframes pulse {
+    0% { -webkit-transform: scale(1); }
+    50% { -webkit-transform: scale(1.1); }
+    100% { -webkit-transform: scale(1); }
+}
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+.pulse {
+    -webkit-animation-name: pulse;
+    animation-name: pulse;
+	-webkit-animation-iteration-count: infinite;
 }
 
 @media (min-width:130px) {
