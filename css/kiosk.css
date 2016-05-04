@@ -391,16 +391,20 @@ td {
 th {
 	text-align:left;
 	border-bottom:solid 1px #333;
+	font-size:2.0rem;
 }
 
 td {
-	width:40%;
+	width:35;
 }
 tr.even td {
 	background:#CC5466;
+	font-size:2.0rem;
 }
 tr.odd td {
 	background:#fff;
+	color:black;
+	font-size:2.0rem;
 }
 
 /*Select*/
