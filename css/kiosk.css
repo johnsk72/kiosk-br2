@@ -987,8 +987,12 @@ ul.map-nav ul.active {
 	position:absolute;
 	top:100%;
 	left:0px;
-	overflow:auto;
+	overflow:scroll;
 	padding: 0 0 0 3rem;
+}
+
+ul.map-nav ul.active.tall {
+	max-height: 70rem;
 }
 
 ul.active li:first-child a {
