@@ -116,6 +116,61 @@
                                 <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Mike Hu</h2></a>
                                 <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jean Inabinett</h2></a>
                                 <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Paul Jackson</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jina Jackson-Rockwell</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Stephen Jakubowski</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Susan Jones</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jimmie Joseph</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Hwee-Joo Kam</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Richard Hewer</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">David Kelson</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Annette Keyt</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Karyn Kiio</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Pat Klarecki</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Phiilip Kohn</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Elies Kouider</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Paul Kwant</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Cheolwoo Lee</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Gayle Lopez</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Terri Lukshaitis</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Stever Lyman</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Aaron Madziar</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Diana Maguire</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Alexander Manga</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">David Marion</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Nicolas Mata</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Ted Mattis</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Roy McLean</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Thomas Mehl</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Laine Mitchell</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Warner Myntti</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Vivian Nazar</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">David Nicol</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Leigha Oberle</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jason Otting</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Karen Ottobre</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Alison Popp-Meier</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Tim Powers</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Patty Rettinger</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Carol Rewers</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Andrea Ruggles</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jack Salem</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">James Shimko</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jennie Stange</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Davie Steenstra</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Andrew Suhy</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Spence Tower</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Chester Trybus</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Dan Tuuri</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Christina Vodry</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Aaron Waltz</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Darlene Waring</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Dawn Weller</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">James White</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Mark Wilson</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Kaythryn Wolfer</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Jim Woolen</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Shannon Yost</h2></a>
+                                <a href="../pages/directory_staffprofile.php"><h2 class="mobileh2">Peter Zakrzewksi</h2></a>
                             </div>
                         </div>
                     </div>
