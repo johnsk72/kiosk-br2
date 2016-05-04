@@ -72,17 +72,19 @@
                              <div class="col m6 s6">
                                 <h3>Is it a Mon/Wed or Tues/Thurs combination?</h3>
                                 <select name="select">
-                                      <option value="value1">Value 1</option> 
-                                      <option value="value2" selected>Value 2</option>
-                                      <option value="value3">Value 3</option>
+									  <option value="value1" selected>Pick a Combination</option>
+                                      <option value="value1">Monday/Wednesday</option> 
+                                      <option value="value2"o>Tuesday/Thursday</option>
                                 </select>
                             </div>
                         </div>
-                        <div class="row gutter">
-                            <div class="col">
-                                <a href="academics_examlist.php" class="button go">Go</a>
-                            </div>
-                        </div>
+	                    <div class="col m12 s12 xs12">
+	                        <div class="row gutter">
+	                            <div class="col">
+	                                <a href="../pages/academics_examlist.php"><h4 class="findbutton">Go</h4></a>
+	                            </div>
+	                        </div>
+						</div>
                 	</div>
                 </div>
         	</div>
