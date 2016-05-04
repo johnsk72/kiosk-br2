@@ -104,7 +104,7 @@
                                 	<h1>Want To Know The Latest Events?</h1>
                                 </div>
 								<div class="col m12 s12 xs12 buttonsec">
-									<a href="#" class="buttonred">TAP HERE</a>
+									<a href="../pages/events_calendar.php" class="buttonred">TAP HERE</a>
 								</div>	
                             </div>
                         </div>
